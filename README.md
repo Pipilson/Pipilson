@@ -1,3 +1,3 @@
 # Pipilson
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipilson&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Pipilson stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipilson&theme=default&title_color=C9D1D9&text_color=C9D1D9&bg_color=161B22&hide_border=true&layout=compact" alt="Pipilson stats card" /></p>
